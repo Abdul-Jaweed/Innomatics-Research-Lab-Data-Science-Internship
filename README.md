@@ -5,6 +5,4 @@
 
 ### Project 1 : 
  #### Building the streamlit app 
-<!-- app link : https://abdul-jaweed-innomatics-research-lab-data-s-project-1app-qxyy5j.streamlit.app/ -->
-
-Streamlit app[link](https://abdul-jaweed-innomatics-research-lab-data-s-project-1app-qxyy5j.streamlit.app/)
+Streamlit app : [link] (https://abdul-jaweed-innomatics-research-lab-data-s-project-1app-qxyy5j.streamlit.app/)
