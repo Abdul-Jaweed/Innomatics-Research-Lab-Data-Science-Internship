@@ -25,5 +25,11 @@ def upper_case():
     return a.upper()
 
 
+@app.route("/lowercase")
+def lower_case():
+    a = request.args.get('a')
+    return a.lower()
+
+
 if __name__ == '__main__':
     app.run(debug=True)
